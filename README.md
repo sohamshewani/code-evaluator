@@ -1,0 +1,1 @@
+Code Evaluator is a unified framework for code quality and performance evaluation, featuring an AST-based static dead code analyzer, a SQLite-backed local cache emulator, and an async concurrent API stress tester. It is designed to help developers optimize their code and ensure efficient performance.
